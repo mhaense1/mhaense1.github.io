@@ -1,0 +1,3 @@
+[submodule "AcademicWebsite"]
+	path = AcademicWebsite
+	url = https://github.com/mhaense1/AcademicWebsite
