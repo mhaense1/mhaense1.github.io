@@ -52,53 +52,74 @@ about_content: | # this will include new lines to allow paragraphs
   
   You can find my CV [<mark>here</mark>](/files/haensel_CV.pdf){:target="_blank"} and more information about my research below.
 
-#I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Current Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Idiosyncratic Risk, Government Debt and Inflation
-        caption: [<mark> Draft </mark>](/files/debt_inflation_haensel_draft_03_24.pdf){:target="_blank"} (new version coming soon)
+      - layout: top
         description: | # this will include new lines to allow paragraphs
+          #### Idiosyncratic Risk, Government Debt and Inflation
+
+          [<mark> Draft </mark>](/files/debt_inflation_haensel_draft_03_24.pdf){:target="_blank"} (new version coming soon)
+
           <span style="font-size:11pt">
           Abstract: How does public debt matter for price stability? If it is useful for the private sector to insure idiosyncratic risk, government debt expansions can increase the natural rate of interest and create inflation. As I demonstrate using a tractable model, this holds in the presence of an active Taylor rule and does not require the absence of future fiscal consolidation. Further analysis using a full-blown 2-asset HANK model reveals the quantitative magnitude of the mechanism to crucially depend on the structure of the asset market: under standard assumptions, the effect of public debt on the natural rate is either overly strong or overly weak. Employing a parsimonious way to overcome this issue, my framework suggests relevant effects of public debt on inflation under active monetary policy: In particular, persistently elevated public debt may make it harder to go the “last mile of disinflation” unless central banks explicitly take its effect on the neutral rate into account.
           </span>
 
-      - layout: top-middle
-        title: HANK faces Unemployment
-        caption: _(joint with Agostino Consolo)_ [draft available upon request]
+      - layout: top
+        #title: HANK faces Unemployment
+        #caption: _(joint with Agostino Consolo)_ [draft available upon request]
         description: | # this will include new lines to allow paragraphs
+          #### HANK faces Unemployment
+
+          _(joint with Agostino Consolo)_ [draft available upon request]
+
           <span style="font-size:11pt">
           Abstract: Since the advent of Heterogeneous Agent New Keynesian (HANK) models, countercyclical unemployment risk has been deemed an important amplification mechanism for business cycles shocks. Yet, the aggregate effects of such “unemployment fears” are hard to pin down: We thus revisit this issue in the context of a rich two-asset HANK model proposing new ways to isolate their general equilibrium effects and tackle the long-standing challenge of modelling wage bargaining in this class of model. While unemployment fears can exert noticeable aggregate effects, we find their magnitude to depend importantly on the distribution of firm profits. Households’ ability to borrow stabilizes the economy. Our framework has also implications for policy: In the aftermath of an adverse energy price shock, fiscal policy can help reduce the hysteresis effects on unemployment and most households gain if the central bank accommodates an employment recovery at the cost of higher inflation.
           </span>
 
-      - layout: top-middle
-        title: Solving Bewley Models with Bilateral Wage Bargaining
-        caption: [Draft available upon request]
+      - layout: top
+        #title: Solving Bewley Models with Bilateral Wage Bargaining
+        #caption: [Draft available upon request]
         description: | # this will include new lines to allow paragraphs
+          #### Solving Bewley Models with Bilateral Wage Bargaining
+
+          [Draft available upon request]
+
           <span style="font-size:11pt">
           Abstract: Search-and-Matching models with incomplete markets `a la Bewley appear challenging to solve, as standard wage bargaining protocols imply workers' wages to depend on their wealth. In fact, I demonstrate that they can be analyzed quickly by building on the Endogenous Grid Method (EGM), particularly if one uses a novel Match-Integrated Endogenous Grid Method (MIEGM): Its key feature is that it obtains worker- and firm value functions jointly instead of solving an outer functional fixed point problem. I show that this fast algorithm can be applied to a variety of models, including set-ups with endogenous separations or intensive margin labor supply. Additionally, the joint solution procedure facilitates studying aggregate shocks and transition dynamics using recent Sequence Space methods.
           </span>
 
-      - layout: top-middle
-        title: Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
-        caption: _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ [<mark> Draft </mark>](/files/chn_cbdc.pdf){:target="_blank"}
+      - layout: top
+        #title: Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
+        #caption: _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ [<mark> Draft </mark>](/files/chn_cbdc.pdf){:target="_blank"}
         description: | # this will include new lines to allow paragraphs
+          #### Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
+
+          _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ [<mark> Draft </mark>](/files/chn_cbdc.pdf){:target="_blank"}
+
+          <span style="font-size:11pt">
           Abstract: Interest rates on new central bank digital currencies (CBDCs) can be expected to enter the monetary policy toolkit soon. Using an extended Sidrauski (1967) model featuring an oligopolistic banking sector, we study the complex transmission of CBDC rate adjustments, which generally involve both direct and indirect effects. This is because a CBDC rate cut does not only affect the rate on the CBDC itself, but also induces the non-competitive deposit providers to adjust their spreads, as the new substitute for their products becomes relatively less attractive. A calibration exercise suggests that the indirect effects depend strongly on deposit market concentration: If sufficiently high, they can provide substantial real effects even in a scenario with limited CBDC adoption. This contrasts them with traditional reserve rate policies which are weakened by a less competitive banking sector. Our framework also yields insights into optimal long-run monetary policy in the presence of CBDC and bank market power.
+          </span>
 
   - title: Publications
     layout: list
     content:
-      - layout: top-middle
-        title: > 
+      - layout: top
+        #title: > 
           Solving the Diamond-Mortensen-Pissarides model: A hybrid perturbation approach
-        link: https://www.sciencedirect.com/science/article/pii/S0165176524001046
-        link_text: Link (Open Access)
-        sub_title: Economics Letters 236 (2024), 111624
+        #link: https://www.sciencedirect.com/science/article/pii/S0165176524001046
+        #link_text: Link (Open Access)
+        #sub_title: Economics Letters 236 (2024), 111624
         description: |
+          #### Solving the Diamond-Mortensen-Pissarides model:
+          ##### Economics Letters 236 (2024), 111624
+          
+          [<mark> Published Version (Open Access) </mark>](https://www.sciencedirect.com/science/article/pii/S0165176524001046){:target="_blank"}
+
+          <span style="font-size:11pt">
           Projection methods are deemed necessary to accurately solve various variants of the Diamond-Mortensen-Pissarides model used in business cycle research. This paper argues that hybrid perturbation, once combined with a non-linear change of variable, can provide an alternative, producing accurate solutions while retaining most of the simplicity of standard perturbation: Applying the method to the Hagedorn and Manovskii (2008) model, it delivers high accuracy and nearly identical business cycle moments as recent projection approaches.
+          </span>
 
   - title: Coding
     layout: text
