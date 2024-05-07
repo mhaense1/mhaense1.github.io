@@ -107,14 +107,14 @@ content:
     content:
       - layout: top
         #title: > 
-          Solving the Diamond-Mortensen-Pissarides model: A hybrid perturbation approach
+        #  Solving the Diamond-Mortensen-Pissarides model: A hybrid perturbation approach
         #link: https://www.sciencedirect.com/science/article/pii/S0165176524001046
         #link_text: Link (Open Access)
         #sub_title: Economics Letters 236 (2024), 111624
         description: |
-          #### Solving the Diamond-Mortensen-Pissarides model:
+          #### Solving the Diamond-Mortensen-Pissarides model:  A hybrid perturbation approach
           ##### Economics Letters 236 (2024), 111624
-          
+
           [<mark> Published Version (Open Access) </mark>](https://www.sciencedirect.com/science/article/pii/S0165176524001046){:target="_blank"}
 
           <span style="font-size:11pt">
