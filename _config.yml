@@ -60,7 +60,7 @@ content:
       - layout: top-middle
         title: Research Project
         link: hhs.se
-         link_text: Project Website
+        link_text: Project Website
         #additional_links:
          # - title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
