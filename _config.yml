@@ -48,8 +48,8 @@ orcid_username: 0009-0007-8938-6462
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-My name is Matthias Hänsel and I am a PhD student at the Stockholm School of Economics. This website is currently under construction.
-However, you can already find my CV [<mark>here</mark>](/files/haensel_CV.pdf){:target="_blank"}.
+  My name is Matthias Hänsel and I am a PhD student at the Stockholm School of Economics. This website is currently under construction.
+  However, you can already find my CV [<mark>here</mark>](/files/haensel_CV.pdf){:target="_blank"}.
 
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
