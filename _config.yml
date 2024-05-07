@@ -1,5 +1,5 @@
 # Site
-# repository: sproogen/resume-theme
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -27,7 +27,7 @@ linkedin_username: matthias-e-haensel
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
- orcid_username: 0009-0007-8938-6462
+orcid_username: 0009-0007-8938-6462
 
 # Additional icon links
 #additional_links:
@@ -59,8 +59,8 @@ content:
     content:
       - layout: top-middle
         title: Research Project
-        #link: github.com/sproogen
-        # link_text: Project Website
+        link: hhs.se
+         link_text: Project Website
         #additional_links:
          # - title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
@@ -68,8 +68,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          #Someting here.
         description: | # this will include new lines to allow paragraphs
           Paper abstract here.
 
