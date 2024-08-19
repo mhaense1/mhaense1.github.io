@@ -143,9 +143,9 @@ content:
   - title: Coding
     layout: text
     content: |
-      I occasionally write code notebooks demonstrating different numerical methods. Currently, the following is available:
-      - A [Notebook](https://mhaense1.github.io/SSJ_Julia_Notebook/SSJ_notebook.html) implementing the Sequence Space method by [Auclert et al. (2021)](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17434) in Julia.
-
+      I occasionally write code notebooks demonstrating numerical methods. Currently, the following is available:
+      - A [Notebook](https://mhaense1.github.io/SSJ_Julia_Notebook/SSJ_notebook.html) demonstrating the Sequence Space method by [Auclert et al. (2021)](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17434) in Julia.
+      - A [Notebook](https://mhaense1.github.io/SSJ_Julia_Notebook/SSJ_notebook_2.html) solving a more involved model using different variants of the [Auclert et al. (2021)](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17434) method.
 
 
 # content:
