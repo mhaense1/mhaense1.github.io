@@ -72,7 +72,9 @@ content:
             How does public debt matter for price stability? If it is useful for the private sector to insure idiosyncratic risk, government debt expansions can increase the natural rate of interest and create inflation. As I demonstrate using a tractable model, this holds in the presence of an active Taylor rule and does not require the absence of future fiscal consolidation. Further analysis using a full-blown 2-asset HANK model reveals the quantitative magnitude of the mechanism to crucially depend on the structure of the asset market: under standard assumptions, the effect of public debt on the natural rate is either overly strong or overly weak. Employing a parsimonious way to overcome this issue, my framework suggests relevant effects of public debt on inflation under active monetary policy: In particular, persistently elevated public debt may make it harder to go the “last mile of disinflation” unless central banks explicitly take its effect on the neutral rate into account.
             </span>
           </details>
-          |
+          
+      - layout: top
+        description: |
           <span style="font-size:11pt">
           _Presented at: Stockholm School of Economics (2023, 2024), SHoF National PhD Workshop in Finance (2023), RGS Doctoral Conference (2024), Riksbank PhD Workshop in Money and Finance (2024), University of Mannheim, Midwest Macroeconomics Meeting (Spring 2024), ENTER Jamboree (2024), North American Summer Meeting of the Econometric Society (2024), Vigo Workshop on Dynamic Macroeconomics (2024), EEA-ESEM Congress (2024), VfS Annual Meeting (2024)_
           </span>
@@ -92,7 +94,9 @@ content:
             Since the advent of Heterogeneous Agent New Keynesian (HANK) models, countercyclical unemployment risk has been deemed an important amplification mechanism for business cycles shocks. Yet, the aggregate effects of such “unemployment fears” are hard to pin down: We thus revisit this issue in the context of a rich two-asset HANK model proposing new ways to isolate their general equilibrium effects and tackle the long-standing challenge of modelling wage bargaining in this class of model. While unemployment fears can exert noticeable aggregate effects, we find their magnitude to depend importantly on the distribution of firm profits. Households’ ability to borrow stabilizes the economy. Our framework has also implications for policy: In the aftermath of an adverse energy price shock, fiscal policy can help reduce the hysteresis effects on unemployment and most households gain if the central bank accommodates an employment recovery at the cost of higher inflation.
             </span>
           </details>
-          |
+
+      - layout: top
+        description: |
           <span style="font-size:11pt">
           _Presented at: Stockholm School of Economics, European Central Bank, Uppsala University, New York University_
           </span>
@@ -111,7 +115,9 @@ content:
             Search-and-Matching models with incomplete markets a la Bewley appear challenging to solve, as standard wage bargaining protocols imply workers' wages to depend on their wealth. In fact, I demonstrate that they can be analyzed quickly by building on the Endogenous Grid Method (EGM), particularly if one uses a novel Match-Integrated Endogenous Grid Method (MIEGM): Its key feature is that it obtains worker- and firm value functions jointly instead of solving an outer functional fixed point problem. I show that this fast algorithm can be applied to a variety of models, including set-ups with endogenous separations or intensive margin labor supply. Additionally, the joint solution procedure facilitates studying aggregate shocks and transition dynamics using recent Sequence Space methods.
             </span>
           </details>
-          |
+          
+      - layout: top
+        description: |
           <span style="font-size:11pt">
           _Presented at: Fed St. Louis-JEDC-SCG-SNB-Conference on Heterogeneity and Macroeconomics of Labor Markets (Poster Session)_
           </span>
@@ -131,7 +137,9 @@ content:
             Interest rates on new central bank digital currencies (CBDCs) can be expected to enter the monetary policy toolkit soon. Using an extended Sidrauski (1967) model featuring an oligopsonistic banking sector, we study the complex transmission of interest rates on CBDC, which generally involve both direct and indirect effects. This is because a CBDC rate cut does not only affect the rate on the CBDC itself, but also induces the non-competitive deposit providers to adjust their spreads, as the new substitute for their products becomes relatively less attractive. A calibration exercise suggests that the indirect effects depend strongly on the sources of deposit market power: If driven by high concentration, they substantially amplify the aggregate effects of the CBDC policy rate, both in response to transitory shocks as well as regarding its long-run welfare effects. This contrasts them with policies directed at the banking sector which are weakened by a less competitive deposit market.
             </span>
           </details>
-          |
+
+      - layout: top
+        description: |
           <span style="font-size:11pt">
           _Presented at: Stockholm School of Economics, SHoF National PhD Workshop in Finance (2021, by co-author), Uppsala University (by co-author)_
           </span>
@@ -162,7 +170,7 @@ content:
         description: |
           #### Solving the Diamond-Mortensen-Pissarides model: A hybrid perturbation approach
 
-          _(Economics Letters 236 (2024), 111624)_
+          _Economics Letters 236 (2024), 111624_
           [<mark> Published Version (Open Access) </mark>](https://www.sciencedirect.com/science/article/pii/S0165176524001046){:target="_blank"}
 
           <details>
