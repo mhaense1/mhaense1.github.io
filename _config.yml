@@ -64,12 +64,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           #### Idiosyncratic Risk, Government Debt and Inflation
 
-          JMP version coming soon ! - [<mark> Old version (ArXiv) </mark>](https://arxiv.org/abs/2403.00471){:target="_blank"}
+          [<mark> Paper </mark>](/files/fisc_inflation_haensel.pdf){:target="_blank"} - [<mark> Old version (ArXiv) </mark>](https://arxiv.org/abs/2403.00471){:target="_blank"}
 
           <details>
             <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
             <span style="font-size:11pt">
-            How does public debt matter for price stability? If it is useful for the private sector to insure idiosyncratic risk, government debt expansions can increase the natural rate of interest and create inflation. As I demonstrate using a tractable model, this holds in the presence of an active Taylor rule and does not require the absence of future fiscal consolidation. Further analysis using a full-blown 2-asset HANK model reveals the quantitative magnitude of the mechanism to crucially depend on the structure of the asset market: under standard assumptions, the effect of public debt on the natural rate is either overly strong or overly weak. Employing a parsimonious way to overcome this issue, my framework suggests relevant effects of public debt on inflation under active monetary policy: In particular, persistently elevated public debt may make it harder to go the “last mile of disinflation” unless central banks explicitly take its effect on the neutral rate into account.
+            How does public debt matter for price stability? If it is useful for the private sector to insure idiosyncratic risk, even transitory government debt expansions can exert upward pressure on interest rates and create inflation. As I demonstrate using a tractable model, this holds in the presence of an active Taylor rule and does not require the absence of future fiscal consolidation. Further analysis using a full-blown 2-asset HANK model reveals the quantitative magnitude of the mechanism to crucially depend on the structure of the asset market: under standard assumptions, the effect of public debt on the natural rate is either overly strong or overly weak. After disciplining this aspect based on pertinent evidence, my framework indicates relevant short-run effects of public debt on inflation under active monetary policy: In particular, in the HANK model the mechanism can account for US inflation remaining elevated in 2023 and afterwards.
             </span>
           </details>
           
