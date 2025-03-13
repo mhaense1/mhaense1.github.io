@@ -48,9 +48,7 @@ orcid_username: 0009-0007-8938-6462
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome! My name is Matthias Hänsel and I am a PhD student at the Stockholm School of Economics. 
-
-  I expect to graduate in Summer 2025 and will participate in the 2024/2025 job market for economists.
+  Welcome! My name is Matthias Hänsel and I am a PhD student at the Stockholm School of Economics, expecting to graduate in June 2025.
   
   My field of research is Macroeconomics with a particular focus on household heterogeneity, monetary & fiscal policy, labor markets and computational methods. 
   
