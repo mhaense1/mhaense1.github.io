@@ -46,7 +46,7 @@ orcid_username: 0009-0007-8938-6462
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_2025.jpg
 about_content: | # this will include new lines to allow paragraphs
   Welcome! My name is Matthias Hänsel and I am a macroeconomist working at Aarhus University, Denmark. 
 
@@ -166,6 +166,7 @@ content:
           #### Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
           
           _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_
+
           _Jahrbücher für Nationalökonomie und Statistik (Journal of Economics and Statistics), 245, no. 4-5 (Special Issue on CBDC), 527-576._
           [<mark> Published Version (Open Access) </mark>](https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2024-0008/html){:target="_blank"}
 
