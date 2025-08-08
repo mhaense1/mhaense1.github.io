@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Matthias Hänsel
-title: PhD Student at the Stockholm School of Economics
-email: matthias.hansel@hhs.se
+title: Macroeconomics Researcher at Aarhus University
+email: m.haensel@econ.au.dk
 website: mhaense1.github.io
 
 # Dark Mode (true/false/never)
@@ -48,9 +48,9 @@ orcid_username: 0009-0007-8938-6462
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome! My name is Matthias Hänsel and I am a PhD student at the Stockholm School of Economics, expecting to graduate in June 2025.
-  
-  My field of research is Macroeconomics with a particular focus on household heterogeneity, monetary & fiscal policy, labor markets and computational methods. 
+  Welcome! My name is Matthias Hänsel and I am a macroeconomist working at Aarhus University, Denmark. 
+
+  My field of research is Macroeconomics with a particular focus on household heterogeneity, monetary & fiscal policy, labor markets and numerical methods. I obtained my PhD from the Stockholm School of Economics in 2025.
   
   You can find my [<mark>CV</mark>](/files/haensel_CV.pdf){:target="_blank"} here and more information about my research below.
 
@@ -120,27 +120,27 @@ content:
           _Presented at: Fed St. Louis-JEDC-SCG-SNB-Conference on Heterogeneity and Macroeconomics of Labor Markets (Poster Session)_
           </span>
 
-      - layout: top
-        #title: Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
-        #caption: _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ [<mark> Draft </mark>](/files/chn_cbdc.pdf){:target="_blank"}
-        description: | # this will include new lines to allow paragraphs
-          #### Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
+      # - layout: top
+      #   #title: Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
+      #   #caption: _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ [<mark> Draft </mark>](/files/chn_cbdc.pdf){:target="_blank"}
+      #   description: | # this will include new lines to allow paragraphs
+      #     #### Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
 
-          _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ 
-          [<mark> Draft </mark>](/files/chn_cbdc2.pdf){:target="_blank"}
+      #     _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ 
+      #     [<mark> Draft </mark>](/files/chn_cbdc2.pdf){:target="_blank"}
 
-          <details>
-            <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
-            <span style="font-size:11pt">
-            Interest rates on new central bank digital currencies (CBDCs) can be expected to enter the monetary policy toolkit soon. Using an extended Sidrauski (1967) model featuring an oligopsonistic banking sector, we study the complex transmission of interest rates on CBDC, which generally involve both direct and indirect effects. This is because a CBDC rate cut does not only affect the rate on the CBDC itself, but also induces the non-competitive deposit providers to adjust their spreads, as the new substitute for their products becomes relatively less attractive. A calibration exercise suggests that the indirect effects depend strongly on the sources of deposit market power: If driven by high concentration, they substantially amplify the aggregate effects of the CBDC policy rate, both in response to transitory shocks as well as regarding its long-run welfare effects. This contrasts them with policies directed at the banking sector which are weakened by a less competitive deposit market.
-            </span>
-          </details>
+      #     <details>
+      #       <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
+      #       <span style="font-size:11pt">
+      #       Interest rates on new central bank digital currencies (CBDCs) can be expected to enter the monetary policy toolkit soon. Using an extended Sidrauski (1967) model featuring an oligopsonistic banking sector, we study the complex transmission of interest rates on CBDC, which generally involve both direct and indirect effects. This is because a CBDC rate cut does not only affect the rate on the CBDC itself, but also induces the non-competitive deposit providers to adjust their spreads, as the new substitute for their products becomes relatively less attractive. A calibration exercise suggests that the indirect effects depend strongly on the sources of deposit market power: If driven by high concentration, they substantially amplify the aggregate effects of the CBDC policy rate, both in response to transitory shocks as well as regarding its long-run welfare effects. This contrasts them with policies directed at the banking sector which are weakened by a less competitive deposit market.
+      #       </span>
+      #     </details>
 
-      - layout: top
-        description: |
-          <span style="font-size:11pt">
-          _Presented at: Stockholm School of Economics, SHoF National PhD Workshop in Finance (2021, by co-author), Uppsala University (by co-author)_
-          </span>
+      # - layout: top
+      #   description: |
+      #     <span style="font-size:11pt">
+      #     _Presented at: Stockholm School of Economics, SHoF National PhD Workshop in Finance (2021, by co-author), Uppsala University (by co-author)_
+      #     </span>
 
   - title: Work in Progress
     layout: list
@@ -159,6 +159,23 @@ content:
   - title: Publications
     layout: list
     content:
+
+      - layout: top
+        #
+        description: |
+          #### Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
+          
+          _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_
+          _Jahrbücher für Nationalökonomie und Statistik (Journal of Economics and Statistics), 245, no. 4-5 (Special Issue on CBDC), 527-576._
+          [<mark> Published Version (Open Access) </mark>](https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2024-0008/html){:target="_blank"}
+
+          <details>
+            <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
+            <span style="font-size:11pt">
+            Interest rates on new central bank digital currencies (CBDCs) can be expected to enter the monetary policy toolkit soon. Using an extended Sidrauski (1967) model featuring an oligopsonistic banking sector, we study the complex transmission of interest rates on CBDC, which generally involve both direct and indirect effects. This is because a CBDC rate cut does not only affect the rate on the CBDC itself, but also induces the non-competitive deposit providers to adjust their spreads, as the new substitute for their products becomes relatively less attractive. A calibration exercise suggests that the indirect effects depend strongly on the sources of deposit market power: If driven by high concentration, they substantially amplify the aggregate effects of the CBDC policy rate, both in response to transitory shocks as well as regarding its long-run welfare effects. This contrasts them with policies directed at the banking sector which are weakened by a less competitive deposit market.
+            </span>
+          </details>
+
       - layout: top
         #title: > 
         #  Solving the Diamond-Mortensen-Pissarides model: A hybrid perturbation approach
@@ -177,6 +194,7 @@ content:
             Projection methods are deemed necessary to accurately solve various variants of the Diamond-Mortensen-Pissarides model used in business cycle research. This paper argues that hybrid perturbation, once combined with a non-linear change of variable, can provide an alternative, producing accurate solutions while retaining most of the simplicity of standard perturbation: Applying the method to the Hagedorn and Manovskii (2008) model, it delivers high accuracy and nearly identical business cycle moments as recent projection approaches.
             </span>
           </details>
+          
 
   - title: Coding
     layout: text
@@ -184,6 +202,7 @@ content:
       I occasionally write code notebooks demonstrating numerical methods. Currently, the following is available:
       - A [Notebook](https://mhaense1.github.io/SSJ_Julia_Notebook/SSJ_notebook.html) demonstrating the Sequence Space method by [Auclert et al. (2021)](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17434) in Julia.
       - A [Notebook](https://mhaense1.github.io/SSJ_Julia_Notebook/SSJ_notebook_2.html) solving a more involved model using different variants of the [Auclert et al. (2021)](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17434) method.
+      - A [Notebook](https://mhaense1.github.io/SSJ_Julia_Notebook/ks_rtm_notebook.html) demonstrating the Repeated Transition Method (RTM) by [Lee (2025)](https://hanbaeklee.github.io/Webpage/Lee_AggRepTrans_2025.pdf) in Julia.
 
 
 
