@@ -62,12 +62,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           #### Idiosyncratic Risk, Government Debt and Inflation
 
-          [<mark> Job Market Paper </mark>](/files/fisc_inflation_haensel.pdf){:target="_blank"} - [<mark> Old version (ArXiv) </mark>](https://arxiv.org/abs/2403.00471v1){:target="_blank"}
+          [<mark> Current draft </mark>](/files/fiscinf_fall2025.pdf){:target="_blank"} - [<mark> JMP version </mark>](/files/fisc_inflation_haensel.pdf){:target="_blank"} - [<mark> Older versions (ArXiv) </mark>](https://arxiv.org/abs/2403.00471v1){:target="_blank"}
 
           <details>
             <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
             <span style="font-size:11pt">
-            How does public debt matter for price stability? When the private sector values it to insure against idiosyncratic risk, even transitory government debt expansions can exert upward pressure on interest rates and generate inflation. As I demonstrate analytically, this holds under an active Taylor rule and does not require the absence of future fiscal consolidation. A quantitative 2-asset HANK model furthermore reveals that the magnitude of the inflation impact depends on the structure of the asset market: In order to match relevant evidence regarding the relationship between public debt and treasury returns, the markets for liquid and illiquid assets can neither be entirely segmented nor entirely integrated. The model suggests that in the US, public debt itself played a modest role in producing the inflation peak in 2022, but is crucial to inflation remaining elevated thereafter.
+            Recent Heterogeneous Agent New Keynesian (HANK) models provide for rich monetary-fiscal interactions due to their lack of Ricardian equivalence. Yet, while related frameworks are usually motivated and calibrated relating to micro-level evidence, this is insufficient to pin down a key margin of non-equivalence. I demonstrate this in a state-of-the-art 2-asset HANK model, in which subtle assumptions on asset market structure give rise to disparate effects of fiscal expansions on interest rates and inflation. This is because household heterogeneity by itself influences but doesn't pin down the liquidity value of public debt. To overcome this issue, I propose a simple model extension and discipline it using relevant macro-level evidence regarding the relationship between public debt and treasury returns. In a subsequent application to the post-2020 US, the model suggests that public debt's liquidity value played a modest role in producing the inflation peak in 2022, but is important for inflation remaining elevated thereafter.
             </span>
           </details>
           
@@ -84,7 +84,7 @@ content:
           #### HANK faces Unemployment 
 
           _(joint with [Agostino Consolo](https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html){:target="_blank"})_ 
-          [<mark> ECB Working Paper 2024/2953 </mark>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902309){:target="_blank"}
+          [<mark> ECB Working Paper 2024/2953 </mark>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902309){:target="_blank"} - [New version coming soon]
 
           <details>
             <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
@@ -154,6 +154,14 @@ content:
           <span style="font-size:11pt">
           New, improved version of [Hernnäs (2023)](https://www.dropbox.com/scl/fi/209ql70e0u4czzkwya3wu/wp-2023-2-automation-when-skills-are-bundled.pdf?rlkey=m1p35zho98tofx17q00vpzj84&e=1&dl=0)
           </span>
+
+      - layout: top
+        description: |
+          #### Mortgage relief programs as stabilization tools
+
+          _(joint with Märta Almgren and [Nils Landén Mammos](https://sites.google.com/view/nilslandenmammos){:target="_blank"})_ 
+
+
 
 
   - title: Publications
