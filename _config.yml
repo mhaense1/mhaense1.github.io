@@ -102,10 +102,11 @@ content:
       - layout: top
         #title: Solving Bewley Models with Bilateral Wage Bargaining
         #caption: [Draft available upon request]
+        #[<mark> Current Draft </mark>](/files/Haensel_MIEGM_draft2.pdf){:target="_blank"}
         description: | # this will include new lines to allow paragraphs
           #### Solving Bewley Models with Bilateral Wage Bargaining 
           
-          [<mark> Current Draft </mark>](/files/Haensel_MIEGM_draft2.pdf){:target="_blank"}
+          [Draft available upon request]
 
           <details>
             <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
