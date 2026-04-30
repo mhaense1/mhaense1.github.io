@@ -60,14 +60,14 @@ content:
     content:
       - layout: top
         description: | # this will include new lines to allow paragraphs
-          #### Idiosyncratic Risk, Government Debt and Inflation
+          #### How much inflation can fiscal policy create? Separating household heterogeneity and liquidity
 
-          [<mark> Current draft </mark>](/files/fiscinf_fall2025.pdf){:target="_blank"} - [<mark> JMP version </mark>](/files/fisc_inflation_haensel.pdf){:target="_blank"} - [<mark> Older versions (ArXiv) </mark>](https://arxiv.org/abs/2403.00471v1){:target="_blank"}
+          [Previously: "Idiosyncratic Risk, Government Debt and Inflation"] - [<mark> Current draft </mark>](/files/fiscinf_haensel.pdf){:target="_blank"} - [<mark> JMP version </mark>](/files/fisc_inflation_haensel.pdf){:target="_blank"} - [<mark> Older versions (ArXiv) </mark>](https://arxiv.org/abs/2403.00471v1){:target="_blank"}
 
           <details>
             <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
             <span style="font-size:11pt">
-            Recent Heterogeneous Agent New Keynesian (HANK) models provide for rich monetary-fiscal interactions due to their lack of Ricardian equivalence. Yet, while related frameworks are usually motivated and calibrated relating to micro-level evidence, this is insufficient to pin down a key margin of non-equivalence. I demonstrate this in a state-of-the-art 2-asset HANK model, in which subtle assumptions on asset market structure give rise to disparate effects of fiscal expansions on interest rates and inflation. This is because household heterogeneity by itself influences but doesn't pin down the liquidity value of public debt. To overcome this issue, I propose a simple model extension and discipline it using relevant macro-level evidence regarding the relationship between public debt and treasury returns. In a subsequent application to the post-2020 US, the model suggests that public debt's liquidity value played a modest role in producing the inflation peak in 2022, but is important for inflation remaining elevated thereafter.
+            Recent Heterogeneous Agent New Keynesian (HANK) models provide for rich monetary-fiscal interactions due to their lack of Ricardian equivalence. Yet, while related frameworks are usually motivated and calibrated relating to household (micro) data, this is insufficient to pin down a key margin of non-equivalence. I show that both in analytically tractable and quantitative 2-asset HANK models, subtle assumptions on asset market structure give rise to disparate implications of fiscal policy: for inflation, model determinacy and fiscal self-financing. This is because household heterogeneity by itself influences but doesn't pin down the liquidity value of public debt. To overcome this issue, I propose a simple model extension and discipline it using relevant macro-level evidence regarding the relationship between public debt and treasury returns. This moderates the inflationary impact of public debt dynamics, but does not render it irrelevant. After large fiscal shocks, it can still generate persistently elevated ``last mile'' inflation.
             </span>
           </details>
           
@@ -84,12 +84,12 @@ content:
           #### HANK faces Unemployment 
 
           _(joint with [Agostino Consolo](https://www.ecb.europa.eu/pub/research/authors/profiles/agostino-consolo.en.html){:target="_blank"})_ 
-          [<mark> ECB Working Paper 2024/2953 </mark>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902309){:target="_blank"} - [Updated version available upon request]
+          [<mark> Current draft </mark>](/files/HankUnemp.pdf){:target="_blank"} - [<mark> ECB Working Paper 2024/2953 </mark>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902309){:target="_blank"} 
 
           <details>
             <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
             <span style="font-size:11pt">
-            Since the advent of Heterogeneous Agent New Keynesian (HANK) models, countercyclical unemployment risk has been deemed an important amplification mechanism for business cycles shocks. Yet, the aggregate effects of such “unemployment fears” are hard to pin down: We thus revisit this issue in the context of a rich two-asset HANK model proposing new ways to isolate their general equilibrium effects and tackle the long-standing challenge of modelling wage bargaining in this class of model. While unemployment fears can exert noticeable aggregate effects, we find their magnitude to depend importantly on the distribution of firm profits. Households’ ability to borrow stabilizes the economy. Our framework has also implications for policy: In the aftermath of an adverse energy price shock, fiscal policy can help reduce the hysteresis effects on unemployment and most households gain if the central bank accommodates an employment recovery at the cost of higher inflation.
+            Since the advent of Heterogeneous Agent New Keynesian (HANK) models, countercyclical unemployment risk has been deemed an important amplification channel for business cycles shocks. We revisit this issue in the context of a rich two-asset HANK framework with search and matching frictions, and we tackle the long-standing challenge of modeling wage bargaining in this class of models. We find the scope for deflationary ``unemployment fears'' spirals to be noticeable, but hinge on the absence of counteracting savings motives and the structure of the asset market. Additionally, we analyze alternative monetary responses to an adverse supply shock and find that their heterogeneous welfare effects depend importantly on the modeling of labor market heterogeneity. In our baseline, the middle class gains most if the central bank accommodates an employment recovery at the cost of higher inflation.
             </span>
           </details>
 
