@@ -7,3 +7,6 @@
 #
 layout: default
 ---
+
+<script data-goatcounter="https://matthiashaensel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
