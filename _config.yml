@@ -50,7 +50,7 @@ about_profile_image: images/profile_2025.jpg
 about_content: | # this will include new lines to allow paragraphs
   Welcome! My name is Matthias Hänsel and I am a macroeconomist working at Aarhus University, Denmark. 
 
-  My field of research is Macroeconomics with a particular focus on household heterogeneity, monetary & fiscal policy, labor markets and numerical methods. I obtained my PhD from the Stockholm School of Economics in 2025.
+  My field of research is Macroeconomics with a particular focus on household heterogeneity, monetary & fiscal policy and labor markets. I obtained my PhD from the Stockholm School of Economics in 2025.
   
   You can find my [<mark>CV</mark>](/files/haensel_CV.pdf){:target="_blank"} here and more information about my research below.
 
@@ -120,6 +120,20 @@ content:
           _Presented at: Fed St. Louis-JEDC-SCG-SNB-Conference on Heterogeneity and Macroeconomics of Labor Markets (Poster Session)_
           </span>
 
+      - layout: top
+        description: | # this will include new lines to allow paragraphs
+          #### Divine coincidence for cost-push shocks?The distribution of profits and monetary tradeoffs 
+          
+          [Draft available upon request]
+
+          <details>
+            <summary><h1 style="font-size:11pt; "><b><u>Click for Abstract</u></b></h1></summary>
+            <span style="font-size:11pt">
+            Does household heterogeneity matter for the monetary response to supply shocks? I study this issue from the perspective of a distribution-agnostic central bank, tasked with stabilizing inflation and economic activity. To the extent that heterogeneity weakens the link between profit incomes and labor supply, the answer is ``yes''. I first show that in a New Keynesian model with tractable heterogeneity, this can reduce or reverse the conventional monetary tradeoff for cost-push shocks, and forms of divine coincidence can obtain. For TFP shocks, the same mechanism changes the price-wage inflation mix consistent with closing the output gap.The insights carry over to full-fledged HANK models, where the cost-push tradeoff is much reduced. Additionally, profit-driven savings demand lowers the nominal rate response required to stabilize inflation.
+            </span>
+          </details>
+          
+
       # - layout: top
       #   #title: Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power
       #   #caption: _(joint with [Hanfeng Chen](https://hanfengchen.com/){:target="_blank"} and Hiep Nguyen)_ [<mark> Draft </mark>](/files/chn_cbdc.pdf){:target="_blank"}
@@ -147,12 +161,12 @@ content:
     content:
       - layout: top
         description: |
-          #### Automation when Skills Are bundled
+          #### Equilibrium Skill Returns
 
-          _(joint with [Sofia Hernnäs](https://sites.google.com/view/sofiahernnas/home){:target="_blank"})_ 
+          _(joint with [Sofia Bougt-Hernnäs](https://sites.google.com/view/sofiahernnas/home){:target="_blank"})_ 
 
           <span style="font-size:11pt">
-          New, improved version of [Hernnäs (2023)](https://www.dropbox.com/scl/fi/209ql70e0u4czzkwya3wu/wp-2023-2-automation-when-skills-are-bundled.pdf?rlkey=m1p35zho98tofx17q00vpzj84&e=1&dl=0)
+          New, improved version of [Bougt-Hernnäs (2023)](https://www.dropbox.com/scl/fi/209ql70e0u4czzkwya3wu/wp-2023-2-automation-when-skills-are-bundled.pdf?rlkey=m1p35zho98tofx17q00vpzj84&e=1&dl=0)
           </span>
 
       - layout: top
